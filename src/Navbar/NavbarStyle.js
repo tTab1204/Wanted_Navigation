@@ -133,7 +133,6 @@ export const NavLinks = styled(Link)`
 export const NavIcons = styled.div`
   display: flex;
   align-items: center;
-  width: 240px;
 
   @media screen and (max-width: 1024px) {
     flex-wrap: wrap;
