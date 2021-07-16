@@ -76,15 +76,12 @@ export const MobileMenuLink = styled(Link)`
 
 export const MobileMenuUser = styled.div`
   background-image: url('https://lh3.googleusercontent.com/a/AATXAJwBO53MCraRT_s63SYTTkAEy6frMh9rMzVWAgR0=s96-c');
-  position: absolute;
-  right: 5%;
-  top: 20%;
-  transform: translateY(-50%);
+  position: relative;
+  float: right;
+  margin-right: 40px;
+  transform: translateY(-35%);
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background-position: 50%;
-  background-repeat: no-repeat;
   background-size: cover;
-  background-color: #ddd;
 `;
