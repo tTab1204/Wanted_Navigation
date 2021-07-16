@@ -47,7 +47,7 @@ export const SearchElementLink = styled(Link)`
   & > h2 {
     position: relative;
     font-size: 17px;
-    color: gray;
+    color: #000000;
     line-height: 20px;
     vertical-align: top;
     padding-right: 20px;
@@ -73,7 +73,7 @@ export const OtherMenuLink = styled(Link)`
   & > h2 {
     position: relative;
     font-size: 17px;
-    color: gray;
+    color: #000000;
     line-height: 20px;
     vertical-align: top;
     padding: 0 20px 0 0;
