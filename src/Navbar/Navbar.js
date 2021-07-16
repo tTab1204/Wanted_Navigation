@@ -41,7 +41,7 @@ function Navbar() {
     <div>
       <Nav>
         <NavbarContainer>
-          <NavLogo to='/'>wanted</NavLogo>
+          <NavLogo to='/'>Wanted</NavLogo>
           <NavMenu>
             <NavItem className='home'>
               <NavLinks to='/'>홈</NavLinks>
